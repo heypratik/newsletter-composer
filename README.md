@@ -18,9 +18,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Tech Stack
 
--Next.js
--TypeScript
--TailwindCSS
--shadcn/ui
--react-email
--lucide-react
+-  Next.js
+- TypeScript
+-  TailwindCSS
+-  shadcn/ui
+-  react-email
+-  lucide-react
